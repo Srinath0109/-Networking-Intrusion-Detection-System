@@ -1,0 +1,8 @@
+NetworkIDS/
+│── app.py                # Main application
+│── packet_sniffer.py      # Packet capturing
+│── feature_extraction.py  # Extracts features from network packets
+│── anomaly_detector.py    # ML-based intrusion detection
+│── logger.py              # Logs detected intrusions
+│── requirements.txt       # Dependencies
+│── README.md              # Documentation
