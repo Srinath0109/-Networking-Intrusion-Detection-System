@@ -17,3 +17,6 @@ A Python-based **Intrusion Detection System (IDS)** using packet sniffing and Ma
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+<img width="1284" alt="IMG_7091" src="https://github.com/user-attachments/assets/67b0a1bb-1269-4dc0-ae59-52910100d2c7" />
+
